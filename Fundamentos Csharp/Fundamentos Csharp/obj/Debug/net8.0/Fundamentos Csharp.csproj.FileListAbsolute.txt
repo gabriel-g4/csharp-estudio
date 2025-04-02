@@ -12,3 +12,4 @@ C:\Users\Gabriel\Desktop\progr4fun\c#\Fundamentos Csharp\Fundamentos Csharp\obj\
 C:\Users\Gabriel\Desktop\progr4fun\c#\Fundamentos Csharp\Fundamentos Csharp\obj\Debug\net8.0\Fundamentos Csharp.pdb
 C:\Users\Gabriel\Desktop\progr4fun\c#\Fundamentos Csharp\Fundamentos Csharp\obj\Debug\net8.0\Fundamentos Csharp.genruntimeconfig.cache
 C:\Users\Gabriel\Desktop\progr4fun\c#\Fundamentos Csharp\Fundamentos Csharp\obj\Debug\net8.0\ref\Fundamentos Csharp.dll
+C:\Users\Gabriel\Desktop\progr4fun\c#\Fundamentos Csharp\Fundamentos Csharp\obj\Debug\net8.0\Fundamentos Csharp.sourcelink.json

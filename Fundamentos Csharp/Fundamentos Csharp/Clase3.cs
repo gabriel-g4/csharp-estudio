@@ -4,7 +4,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase3
     {
-        static void Main(string[] args)
+        internal static void Clase()
         {
             Console.WriteLine("Clase 3!\n");
             Console.WriteLine("Arrays y listas");
