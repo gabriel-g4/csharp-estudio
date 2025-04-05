@@ -4,7 +4,7 @@ namespace Fundamentos_Csharp
 {
     class Clase4
     {
-        static void Main(string[] args)
+        internal static void Clase()
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Clase 4");

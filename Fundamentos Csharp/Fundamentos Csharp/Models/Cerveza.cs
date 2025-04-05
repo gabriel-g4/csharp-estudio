@@ -9,6 +9,8 @@ namespace Fundamentos_Csharp.Models
     internal class Cerveza : Bebida, IBebidaAlcoholica
     {
         public int Alcohol { get; set; }
+
+        public string Marca { get; set; }
         public Cerveza () : base ("Cerveza", 500)
         {
 
