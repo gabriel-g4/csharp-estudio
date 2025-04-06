@@ -10,7 +10,7 @@ namespace Fundamentos_Csharp.Models
     internal class CervezaBD
     {
         string connectionString = "Data Source=localhost;" +
-            "Initial Catalog=master;" +
+            "Initial Catalog=pruebaCsharp;" +
             "Integrated Security=true;TrustServerCertificate=true";
 
         public List<Cerveza> Get()
@@ -18,7 +18,7 @@ namespace Fundamentos_Csharp.Models
             List<Cerveza> cervezas = new List<Cerveza>();
 
             string query = "SELECT nombre, marca, alcohol, cantidad " +
-                "from pruebaCsharp";
+                "from cervezas";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -49,5 +49,10 @@ namespace Fundamentos_Csharp.Models
 
             return cervezas;
         }
+
+        //public void Create(Cerveza cerveza)
+        //{
+        //    string query = "INSERT INTO cervezas"
+        //}
     }
 }

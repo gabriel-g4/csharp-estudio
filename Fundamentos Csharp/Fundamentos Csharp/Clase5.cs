@@ -21,7 +21,7 @@ namespace Fundamentos_Csharp
 
             foreach (var cerveza in listaCervezas)
             {
-                Console.WriteLine(cerveza.Nombre," - ", cerveza.Marca);
+                Console.WriteLine(cerveza.Nombre + " - " + cerveza.Marca);
             }
         }
     }
