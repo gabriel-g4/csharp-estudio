@@ -4,7 +4,6 @@
     {
         public static void Clase()
         {
-            Console.WriteLine("Hello, World!");
             Console.WriteLine("Clase 1");
             Console.WriteLine("Tipos de datos");
 

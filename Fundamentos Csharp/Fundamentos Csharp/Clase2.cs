@@ -12,7 +12,6 @@ namespace Fundamentos_Csharp
     {
         public static void Clase()
         {
-            Console.WriteLine("Hello, world!");
             Console.WriteLine("Clase 2\n");
             Console.WriteLine("Clases y objetos");
 

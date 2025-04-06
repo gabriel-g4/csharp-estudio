@@ -9,9 +9,11 @@ namespace Fundamentos_Csharp
 {
     internal class Clase5
     {
-        static void Main(string[] args)
+        internal static void Clase()
         {
-            Console.WriteLine("Hello, world!");
+            Console.WriteLine("Clase 5!");
+            Console.WriteLine("Conexion a BD y mostrar objetos!\n");
+
 
             CervezaBD cervezaBD = new CervezaBD();
 

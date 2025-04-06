@@ -6,7 +6,6 @@ namespace Fundamentos_Csharp
     {
         internal static void Clase()
         {
-            Console.WriteLine("Hello world");
             Console.WriteLine("Clase 4");
             Console.WriteLine("Interfaces");
 
