@@ -7,3 +7,4 @@ Siguiendo el roadmap confeccionado por Héctor de León para desarrollador backe
 * 05/04/2025: Base de datos con SQLServer.
 * 06/04/2025: Funciones de CRUD básico.
 * 07/04/2025: Serialización y Deserialización con JSON. Solicitud a Servicio Web mediante HTTP GET.
+* 07/04/2025: HTTP Solicitudes POST, PUT y DELETE.
