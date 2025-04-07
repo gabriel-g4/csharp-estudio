@@ -9,7 +9,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase6
     {
-        static void Main(string[] args)
+        internal static void Clase()
         {
 
             Console.WriteLine("Clase 6!");
