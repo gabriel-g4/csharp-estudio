@@ -11,7 +11,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase7
     {
-        static void Main(string[] args)
+        internal static void Clase()
         {
             Console.WriteLine("Clase 7!");
             Console.WriteLine("Serialización y Deserialización con JSON\n");
