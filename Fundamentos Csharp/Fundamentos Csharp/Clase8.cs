@@ -11,7 +11,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase8
     {
-        static async Task Main(string[] args)
+        internal static async Task Clase()
         {
             Console.WriteLine("Clase 8!");
             Console.WriteLine("Conexión HTTP Método GET");
