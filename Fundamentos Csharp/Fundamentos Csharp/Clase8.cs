@@ -25,11 +25,15 @@ namespace Fundamentos_Csharp
             if(response.IsSuccessStatusCode)
             {
                 string content = await response.Content.ReadAsStringAsync();
-                List<Post> posts = JsonSerializer.Deserialize<List<Post>>(content);
+                List<Post> posts = JsonSerializer.Deserialize<List<Post>>(content,
+                 new JsonSerializerOptions()
+                 {
+                     PropertyNameCaseInsensitive = true
+                 });
                 
                 foreach(var post in posts)
                 {
-                    Console.WriteLine($"{post.id} - {post.title} - {post.body}");
+                    Console.WriteLine($"{post.Id} - {post.Title} - {post.Body}");
                 }
 
             }
