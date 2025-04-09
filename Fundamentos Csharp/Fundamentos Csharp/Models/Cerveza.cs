@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Fundamentos_Csharp.Models
 {
-    internal class Cerveza : Bebida, IBebidaAlcoholica
+    internal class Cerveza : Bebida, IBebidaAlcoholica, IRequestable
     {
         public int Alcohol { get; set; }
 
         public string Marca { get; set; }
+
+        public int Id { get; set; }
         public Cerveza () : base ("Cerveza", 500)
         {
 

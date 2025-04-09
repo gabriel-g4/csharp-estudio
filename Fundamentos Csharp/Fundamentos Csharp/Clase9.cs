@@ -10,7 +10,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase9
     {
-        static async Task Main(string[] args)
+        static async Task Clase()
         {
             Console.WriteLine("Clase 9");
             Console.WriteLine("POST, PUT, DELETE\n");
