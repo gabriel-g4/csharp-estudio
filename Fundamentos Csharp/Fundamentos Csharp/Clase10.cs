@@ -10,7 +10,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase10
     {
-        static async Task Main(string[] args)
+        static async Task Clase()
         {
             Console.WriteLine("Clase 10");
             Console.WriteLine("Generics\n");
