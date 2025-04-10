@@ -8,7 +8,7 @@ using Fundamentos_Csharp.Models;
 
 namespace Fundamentos_Csharp
 {
-    internal class Clase2
+    internal class Clase02
     {
         public static void Clase()
         {

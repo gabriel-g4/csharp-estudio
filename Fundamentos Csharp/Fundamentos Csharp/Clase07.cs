@@ -9,7 +9,7 @@ using System.Text.Json.Serialization;
 
 namespace Fundamentos_Csharp
 {
-    internal class Clase7
+    internal class Clase07
     {
         internal static void Clase()
         {

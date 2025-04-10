@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Fundamentos_Csharp
 {
-    internal class Clase5
+    internal class Clase05
     {
         internal static void Clase()
         {

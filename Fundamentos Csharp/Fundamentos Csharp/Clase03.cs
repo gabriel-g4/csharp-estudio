@@ -2,7 +2,7 @@
 
 namespace Fundamentos_Csharp
 {
-    internal class Clase3
+    internal class Clase03
     {
         internal static void Clase()
         {

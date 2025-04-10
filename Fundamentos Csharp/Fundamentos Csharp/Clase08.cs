@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Fundamentos_Csharp
 {
-    internal class Clase8
+    internal class Clase08
     {
         internal static async Task Clase()
         {
