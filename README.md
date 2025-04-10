@@ -9,3 +9,4 @@ Siguiendo el roadmap confeccionado por Héctor de León para desarrollador backe
 * 07/04/2025: Serialización y Deserialización con JSON. Solicitud a Servicio Web mediante HTTP GET.
 * 07/04/2025: HTTP Solicitudes POST, PUT y DELETE.
 * 09/04/2025: Generics.
+* 10/04/2025: LINQ.
