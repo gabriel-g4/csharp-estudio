@@ -10,3 +10,4 @@ Siguiendo el roadmap confeccionado por Héctor de León para desarrollador backe
 * 07/04/2025: HTTP Solicitudes POST, PUT y DELETE.
 * 09/04/2025: Generics.
 * 10/04/2025: LINQ.
+* 11/04/2025: LINQ con objetos avanzados.
