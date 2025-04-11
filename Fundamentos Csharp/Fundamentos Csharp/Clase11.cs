@@ -10,7 +10,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase11
     {
-        static void Main(string[] args)
+        public static void Clase()
         {
             Console.WriteLine("Clase 11");
             Console.WriteLine("LINQ\n");
