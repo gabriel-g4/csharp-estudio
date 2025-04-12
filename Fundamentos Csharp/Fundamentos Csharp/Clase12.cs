@@ -10,7 +10,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase12
     {
-        static void Main(string[] args)
+        public static void Clase()
         {
             Console.WriteLine("Clase 12");
             Console.WriteLine("LINQ con objetos avanzados\n");
