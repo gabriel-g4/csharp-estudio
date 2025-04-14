@@ -12,3 +12,4 @@ Siguiendo el roadmap confeccionado por Héctor de León para desarrollador backe
 * 10/04/2025: LINQ.
 * 11/04/2025: LINQ con objetos avanzados.
 * 12/04/2025: Excepciones.
+* 14/04/2025: Delegados, Func, Action.
