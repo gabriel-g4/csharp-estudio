@@ -11,7 +11,7 @@ namespace Fundamentos_Csharp
 {
     internal class Clase13
     {
-        static void Main(string[] args)
+        public static void Clase()
         {
             Console.WriteLine("Clase 13");
             Console.WriteLine("Excepciones\n");
