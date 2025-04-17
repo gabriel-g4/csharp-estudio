@@ -2,14 +2,17 @@
 
 Siguiendo el roadmap confeccionado por Héctor de León para desarrollador backend con .NET
 
-* 02/04/2025: Tipo de datos. Clases y objetos. Arrays y listas.
-* 02/04/2025: Interfaces.
-* 05/04/2025: Base de datos con SQLServer.
-* 06/04/2025: Funciones de CRUD básico.
-* 07/04/2025: Serialización y Deserialización con JSON. Solicitud a Servicio Web mediante HTTP GET.
-* 07/04/2025: HTTP Solicitudes POST, PUT y DELETE.
-* 09/04/2025: Generics.
-* 10/04/2025: LINQ.
-* 11/04/2025: LINQ con objetos avanzados.
-* 12/04/2025: Excepciones.
-* 14/04/2025: Delegados, Func, Action.
+## Fundamentos de C#
+
+* __02/04/2025__: Tipo de datos. Clases y objetos. Arrays y listas.
+* __02/04/2025__: Interfaces.
+* __05/04/2025__: Base de datos con SQLServer.
+* __06/04/2025__: Funciones de CRUD básico.
+* __07/04/2025__: Serialización y Deserialización con JSON. Solicitud a Servicio Web mediante HTTP GET.
+* __07/04/2025__: HTTP Solicitudes POST, PUT y DELETE.
+* __09/04/2025__: Generics.
+* __10/04/2025__: LINQ.
+* __11/04/2025__: LINQ con objetos avanzados.
+* __12/04/2025__: Excepciones.
+* __14/04/2025__: Delegados, Func, Action.
+* __16/04/2025__: Predicado.
