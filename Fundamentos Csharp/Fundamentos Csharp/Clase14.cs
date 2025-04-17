@@ -9,7 +9,7 @@ namespace Fundamentos_Csharp
     internal class Clase14
     {
         // delegate int Mostrar(string mensaje);
-        static void Main(string[] args)
+        internal static void Clase()
         {
             Console.WriteLine("Clase 14");
             Console.WriteLine("Delegados, Func, Action\n");

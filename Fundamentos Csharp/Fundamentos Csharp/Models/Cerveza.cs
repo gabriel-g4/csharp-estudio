@@ -13,6 +13,8 @@ namespace Fundamentos_Csharp.Models
         public string Marca { get; set; }
 
         public int Id { get; set; }
+
+        public string Nombre { get; set; }
         public Cerveza () : base ("Cerveza", 500)
         {
 
